@@ -5,10 +5,11 @@ Thanks to my employer, I also had the opportunity to acquire a lot of knowledge 
 <br><br>
 Essentially, I created Powerapps for Microsoft Teams, which worked with Dataverse and Power Automate Cloud Flows. Most of the work involved planning and creating the canvas apps, designing the database structures for Dataverse and interface programming using Power Automate Cloud Flows
 
-Translated with DeepL.com (free version)
-<img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="200" alt="Praetoriani's Dev Card" style="text-align: center;"/>
 
 <!--
+<br><br><br>
+<img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="200" alt="Praetoriani's Dev Card" style="text-align: center;"/>
+
 ### Hi there 👋
 **praetoriani/praetoriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
