@@ -1,4 +1,4 @@
-<img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="400" alt="Praetoriani's Dev Card" style="align-self: center; justify-self: center;"/>
+<img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="400" alt="Praetoriani's Dev Card" style="text-align: center;"/>
 
 <!--
 ### Hi there 👋
