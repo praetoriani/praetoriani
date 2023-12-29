@@ -1,4 +1,12 @@
-<img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="400" alt="Praetoriani's Dev Card" style="text-align: center;"/>
+## Welcome to my Github Profile 😊
+I would like to show you a small overview of my development projects here. Unfortunately, I cannot make all projects public, as some of the applications are developments for my employer. Nevertheless, you can read about at least some of the work I have developed over the last few years. My private projects are of course public.<br><br>
+First of all, a little about myself. I completed my training as a web developer many years ago. I have gained a lot of experience in the field of web development and was able to expand my basic knowledge of HTML, CSS, Javascript and PHP/MySQL. At that time, there were no sophisticated frameworks or runtime libraries. In recent years, I have worked intensively with SPAs/PWAs as well as frameworks (such as React and Angular) and was able to acquire expertise in working with Rest APIs.<br><br>
+Thanks to my employer, I also had the opportunity to acquire a lot of knowledge about various Microsoft products (such as Powerapps, Power Automate, Dataverse, Sharepoint, Onedrive, Azure, Entra, etc.).
+<br><br>
+Essentially, I created Powerapps for Microsoft Teams, which worked with Dataverse and Power Automate Cloud Flows. Most of the work involved planning and creating the canvas apps, designing the database structures for Dataverse and interface programming using Power Automate Cloud Flows
+
+Translated with DeepL.com (free version)
+<img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="200" alt="Praetoriani's Dev Card" style="text-align: center;"/>
 
 <!--
 ### Hi there 👋
