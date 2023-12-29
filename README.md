@@ -1,6 +1,7 @@
-### Hi there 👋
+<img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="400" alt="Praetoriani's Dev Card" style="align-self: center; justify-self: center;"/>
 
 <!--
+### Hi there 👋
 **praetoriani/praetoriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
