@@ -46,6 +46,8 @@ You are welcome to stop by at any time.<br><br>
 <br><br><br>
 <img src="https://api.daily.dev/devcards/f5cf9b1dfdc54719b064e1ef6b8d2898.png?r=agd" width="200" alt="Praetoriani's Dev Card" style="text-align: center;"/>
 
+https://github.com/users/praetoriani/projects/2
+
 ### Hi there 👋
 **praetoriani/praetoriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
