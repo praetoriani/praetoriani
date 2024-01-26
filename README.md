@@ -1,5 +1,7 @@
 ## Welcome to my Github Profile 😊
 
+![Static Badge](https://img.shields.io/badge/January%2026%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
+
 I would like to show you a small overview of my development projects here. Unfortunately, I cannot make all projects public, as some of the applications are developments for my employer. Nevertheless, you can read about at least some of the work I have developed over the last few years. My private projects are of course public.<br><br>
 First of all, a little about myself. My real name is Marc and I currently work for Constantin Film in Munich. I completed my training as a web developer many years ago. I have gained a lot of experience in the field of web development and was able to expand my basic knowledge of HTML, CSS, Javascript and PHP/MySQL. At that time, there were no sophisticated frameworks or runtime libraries. In recent years, I have worked intensively with SPAs/PWAs as well as frameworks (such as React and Angular) and was able to acquire expertise in working with Rest APIs.<br><br>
 Thanks to my employer, I also had the opportunity to acquire a lot of knowledge about various Microsoft products (such as Powerapps, Power Automate, Dataverse, Sharepoint, Onedrive, Azure, Entra, etc.).
@@ -10,15 +12,18 @@ But enough about me now. Here is the overview of current projects<br>
 
 
 
-> [!IMPORTANT]
-> There is one more thing I would like to mention. Since I'm in the process of completely revamping my Github profile, my repos are currently not publicly available (sorry for that. I hope you can understand). The repos will gradually be accessible again as soon as I updated my profile
+> [!NOTE]
+> There is one more thing I would like to mention. Since I'm in the process of completely revamping my Github profile, not all of my repos are currently publicly available (sorry for that. I hope you can understand). The repos will gradually be accessible again as soon as I updated my profile.
 
 <br><hr><br>
 
 ### 📌 Web Components
-In this repository I would like to show that it is possible to create your own, reusable and standalone web components even without a framework (such like Angular or React). And that's just with HTML, CSS and Javascript.<br>[Visit Repository](https://github.com/praetoriani/Web-Components)
+[`#NoFrameworks`](https://github.com/topics/no-frameworks) [`#NoBullshit`](https://github.com/topics/nobullshit) [`#JustPlainCode`](https://github.com/topics/justplaincode)<br>
+In this repository I would like to show that it is possible to create your own, reusable and standalone web components even without a framework (such like Angular or React) 🤯. And that's just with HTML, CSS and Javascript 😃.<br>
+» [Visit Repository](https://github.com/praetoriani/Web-Components)
 <br>
 ### 📌 AngularDevBox
+[`#Angular`](https://github.com/topics/angular) [`#Angular CLI`](https://github.com/topics/angular-cli) [`#DevTools`](https://github.com/topics/devtools)<br>
 I work a lot with Angular, NodeJS (NPM), Typescript and HTML/SCSS these days. The AngularDevBox was actually just a kind of "playground" for myself. I tried out a lot of things here when I was learning the Angular framework. Accordingly, the code is also quite extensively documented and explained. In the end, I liked my own AngularDexBox so much that I thought about making a small "Angular Starter Project" for beginners to the Angular Framework. And this is the AngularDevBox.
 <br><br>
 I am currently in the process of revising this repo and changing a few things. The repo should be equipped with a tutorial for the AngularDevBox, so that you can build the AngularDevBox yourself. The AngularDevBox will also be revised and updated a little.<br><br>
