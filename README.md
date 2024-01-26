@@ -19,11 +19,13 @@ But enough about me now. Here is the overview of current projects<br>
 
 ### 📌 Web Components
 [`#NoFrameworks`](https://github.com/topics/no-frameworks) [`#NoBullshit`](https://github.com/topics/nobullshit) [`#JustPlainCode`](https://github.com/topics/justplaincode)<br>
-In this repository I would like to show that it is possible to create your own, reusable and standalone web components even without a framework (such like Angular or React) 🤯. And that's just with HTML, CSS and Javascript 😃.<br>
+
+In this repository I would like to show that it is possible to create your own, reusable and standalone web components even without a framework (such like Angular or React) 🤯. And that's just with plain and native HTML, CSS and Javascript 😃.<br>
 » [Visit Repository](https://github.com/praetoriani/Web-Components)
 <br>
 ### 📌 AngularDevBox
 [`#Angular`](https://github.com/topics/angular) [`#Angular CLI`](https://github.com/topics/angular-cli) [`#DevTools`](https://github.com/topics/devtools)<br>
+
 I work a lot with Angular, NodeJS (NPM), Typescript and HTML/SCSS these days. The AngularDevBox was actually just a kind of "playground" for myself. I tried out a lot of things here when I was learning the Angular framework. Accordingly, the code is also quite extensively documented and explained. In the end, I liked my own AngularDexBox so much that I thought about making a small "Angular Starter Project" for beginners to the Angular Framework. And this is the AngularDevBox.
 <br><br>
 I am currently in the process of revising this repo and changing a few things. The repo should be equipped with a tutorial for the AngularDevBox, so that you can build the AngularDevBox yourself. The AngularDevBox will also be revised and updated a little.<br><br>
