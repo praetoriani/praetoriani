@@ -21,7 +21,10 @@ In this repository I would like to show that it is possible to create your own, 
 ### 📌 AngularDevBox
 I work a lot with Angular, NodeJS (NPM), Typescript and HTML/SCSS these days. The AngularDevBox was actually just a kind of "playground" for myself. I tried out a lot of things here when I was learning the Angular framework. Accordingly, the code is also quite extensively documented and explained. In the end, I liked my own AngularDexBox so much that I thought about making a small "Angular Starter Project" for beginners to the Angular Framework. And this is the AngularDevBox.
 <br><br>
-I am currently in the process of revising this repo and changing a few things. The repo should be equipped with a tutorial for the AngularDevBox, so that you can build the AngularDevBox yourself. The AngularDevBox will also be revised and updated a little.
+I am currently in the process of revising this repo and changing a few things. The repo should be equipped with a tutorial for the AngularDevBox, so that you can build the AngularDevBox yourself. The AngularDevBox will also be revised and updated a little.<br><br>
+**Update** (26.01.2024):<br>_The App is still not finished, but I decided to make this repo public._<br>
+[Visit Repository](https://github.com/praetoriani/Angular-CLI-DevKit)
+<br>
 <!--
 ### 📌 AngularCLI Generator
 This is actually just a by-product of when I taught myself the Angular Framework. At some point during the learning phase, there was a point where I didn't feel like constantly reading up in the online references which command I needed for the Angular CLI to do this and that. So I started to create an Angular project that allows me to generate Angular CLI commands for a wide variety of scenarios. The app is also able to generate entire Powershell scripts with which you can easily and automatically create and set up an entire Angular project (with NPM modules, Angular components, Angular services and much more).<br><br>
