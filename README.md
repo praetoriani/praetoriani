@@ -21,7 +21,7 @@ But enough about me now. Here is the overview of current projects<br>
 [`#NoFrameworks`](https://github.com/topics/no-frameworks) [`#NoBullshit`](https://github.com/topics/nobullshit) [`#JustPlainCode`](https://github.com/topics/justplaincode)<br>
 
 In this repository I would like to show that it is possible to create your own, reusable and standalone web components even without a framework (such like Angular or React) 🤯. And that's just with plain and native HTML, CSS and Javascript 😃.<br>
-» [Visit Repository](https://github.com/praetoriani/Web-Components)
+» [Visit Repository](https://github.com/praetoriani/web-components)
 <br>
 ### 📌 Angular CLI DevKit
 [`#Angular`](https://github.com/topics/angular) [`#Angular CLI`](https://github.com/topics/angular-cli) [`#DevTools`](https://github.com/topics/devtools)<br>
