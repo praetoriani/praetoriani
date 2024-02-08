@@ -1,6 +1,12 @@
-## Welcome to my Github Profile 😊
+![Static Badge](https://img.shields.io/badge/February%2008%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
 
-![Static Badge](https://img.shields.io/badge/February%2005%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
+## UPDATE:
+
+Check out the <a href="https://github.com/praetoriani/web-components">Web Component Repository</a>. I made some recent updates 😉
+<br><br><br>
+<hr>
+
+## Welcome to my Github Profile 😊
 
 I would like to show you a small overview of my development projects here. Unfortunately, I cannot make all projects public, as some of the applications are developments for my employer. Nevertheless, you can read about at least some of the work I have developed over the last few years. My private projects are of course public.<br><br>
 First of all, a little about myself. My real name is Marc and I currently work for Constantin Film in Munich. I completed my training as a web developer many years ago. I have gained a lot of experience in the field of web development and was able to expand my basic knowledge of HTML, CSS, Javascript and PHP/MySQL. At that time, there were no sophisticated frameworks or runtime libraries. In recent years, I have worked intensively with SPAs/PWAs as well as frameworks (such as React and Angular) and was able to acquire expertise in working with Rest APIs.<br><br>
