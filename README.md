@@ -2,7 +2,8 @@
 
 ## UPDATE:
 
-Check out the <a href="https://github.com/praetoriani/web-components">Web Component Repository</a>. I made some recent updates 😉
+Check out the <a href="https://github.com/praetoriani/web-components">Web Component Repository</a>.<br>
+I made some recent updates 😉
 <br><br><br>
 <hr>
 
