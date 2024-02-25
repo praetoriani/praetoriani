@@ -1,6 +1,10 @@
-![Static Badge](https://img.shields.io/badge/February%2008%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
+![Static Badge](https://img.shields.io/badge/February%2025%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
 
 ## UPDATE:
+
+I just opened a new repo 
+<a href="https://github.com/praetoriani/my-py-scripts">my-py-scripts</a><br>
+There isn't much to see here at the moment. But since I'm occasionally working with Python again at the moment, I'll publish Python scripts there every now and then
 
 Check out the <a href="https://github.com/praetoriani/web-components">Web Component Repository</a>.<br>
 I made some recent updates 😉
@@ -43,8 +47,10 @@ Angular CLI DevKit is an Angular-based web application. The Angular CLI DevKit o
 This is actually just a by-product of when I taught myself the Angular Framework. At some point during the learning phase, there was a point where I didn't feel like constantly reading up in the online references which command I needed for the Angular CLI to do this and that. So I started to create an Angular project that allows me to generate Angular CLI commands for a wide variety of scenarios. The app is also able to generate entire Powershell scripts with which you can easily and automatically create and set up an entire Angular project (with NPM modules, Angular components, Angular services and much more).<br><br>
 The AngularCLI Generator simplifies working with the Angular CLI and makes creating new Angular projects a lot easier. Instead of typing long lines of code into the console, a few clicks here and there are all it takes to create and set up an entire project.
 -->
+<!--
 ### 📌 NoX (a.k.a. NoX Box)
 The NoX Box is a Rest API backend server based on NodeJS/ExpressJS. It started when I wanted to implement an E-Mail Service in an App, but couldn't find a good and practical solution. So I started to create a solution for myself that would allow me to send E-Mails via a Google Account. While working on the NoX Box, I realized that I can use this Rest API Backend Server for other things as well. And that is now the NoX project. I will work on this here from time to time and extend the Backend Rest API accordingly. The plan is to make NoX a CRUD Rest API Backend, with which you will not only be able to send emails via Google, but also access SQL databases and perform CRUD actions (Create, Read, Update, Delete). I'm also planning to extend  NoX with some features to secure the server against attacks and make it more safe to use. Due to I am not an Security Expert, this may take some time.
+-->
 ### 📌 StaffManager-v2
 StaffManager is a Canvas App for Microsoft Teams and serves as an interface between HR and IT. Employees can be reported for onboarding or offboarding and personnel changes such as job changes or special leave can be submitted. The Canvas App works with Dataverse to manage the data and uses Power Automate Cloud Flow to send requests by email. The StaffManaer also uses a Rest API to create and update tickets in a ticket management system.
 ### 📌 ChipKeyAllocator
