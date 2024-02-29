@@ -40,7 +40,7 @@ In this repository I would like to show that it is possible to create your own, 
 Angular CLI DevKit is an Angular-based web application. The Angular CLI DevKit offers the ability to create command prompts for the Angular CLI via a graphical user interface. With the Angular CLI DevKit, new workspaces, new components, new services, etc. can be created in this way. 
 <br><br>
 **Update** (26.01.2024):<br>_The App is still not finished, but I decided to make this repo public._<br>
-[Visit Repository](https://github.com/praetoriani/Angular-CLI-DevKit)
+[Visit Repository](https://github.com/praetoriani/AngularCLI-DevKit)
 <br>
 <!--
 ### 📌 AngularCLI Generator
