@@ -1,11 +1,18 @@
-![Static Badge](https://img.shields.io/badge/February%2025%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
+![Static Badge](https://img.shields.io/badge/February%2029%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
 
 ## UPDATE:
 
+[29.02.2024]&nbsp;
+The **Angular CLI DevKit** repository was updated.<br>
+A provisional release of the Angular CLI DevKit (v1.00.82) is available.<br>
+[**Angular CLI DevKit Repository**](https://github.com/praetoriani/AngularCLI-DevKit)&nbsp;&nbsp;/&nbsp;&nbsp;[**Angular CLI DevKit App**](https://praetoriani.github.io/AngularCLI-DevKit/release/)
+<br><br><br>
+[20.02.2024]&nbsp;
 I just opened a new repo 
 <a href="https://github.com/praetoriani/my-py-scripts">my-py-scripts</a><br>
 There isn't much to see here at the moment. But since I'm occasionally working with Python again at the moment, I'll publish Python scripts there every now and then
-
+<br><br><br>
+[older]&nbsp;
 Check out the <a href="https://github.com/praetoriani/web-components">Web Component Repository</a>.<br>
 I made some recent updates 😉
 <br><br><br>
