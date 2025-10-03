@@ -1,7 +1,11 @@
-![Static Badge](https://img.shields.io/badge/May%2009%2C%202024-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
+![Static Badge](https://img.shields.io/badge/October%2003%2C%202025-%23000000?style=flat&logoColor=%23cc0000&label=Last%20Update%3A%20&labelColor=%23efefef&color=%23525252&link=https%3A%2F%2Fgithub.com%2Fpraetoriani%2FAngularCLI-DevKit)
 
 ## UPDATE:
 
+[03.10.2025]&nbsp;
+Added a PowerShell.Lib repository<br>
+[**Visit repo**](https://github.com/praetoriani/PowerShell.Lib)
+<br><br><br>
 [09.05.2024]&nbsp;
 Added a perl repository for my perl scripts<br>
 [**Visit repo**](https://github.com/praetoriani/perl)
